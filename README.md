@@ -1,4 +1,4 @@
-# AAA740_Gropu5
+# AAA740_Group5
 
 ## References
 [1] https://github.com/VITA-Group/AutoGAN  
